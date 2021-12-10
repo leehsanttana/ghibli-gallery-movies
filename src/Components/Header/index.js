@@ -1,5 +1,4 @@
 import React from 'react';
-import * as C from './styles';
 import { UserContext } from '../../UserContext';
 
 const Header = () => {
