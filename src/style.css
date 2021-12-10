@@ -8,7 +8,7 @@
   margin: 0;
   --black: #252422;
   --grey: #dbdbda;
-  --dark-grey: #;
+  --dark-grey: #bbbbbb;
   --white: #f4f3ee;
   --grey-blue: #2e585a;
   --white-blue: #15aad8;
@@ -359,6 +359,14 @@ button:hover {
 
   .info-content div {
     margin-bottom: 1rem;
+  }
+
+  .back {
+    color: var(--dark-grey);
+    font-size: 5rem;
+    top: 580px;
+    right: 30px;
+    height: 100%;
   }
 }
 
