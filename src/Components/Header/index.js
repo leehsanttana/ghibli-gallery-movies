@@ -11,7 +11,10 @@ const Header = () => {
         <span className="initLogo">Ghi</span>Gallery
       </span>
 
-      <a className="portfolio" href="">
+      <a
+        className="portfolio"
+        href="https://leehsanttana.github.io/personal-portfolio/"
+      >
         Created by Leonam Santtana
       </a>
     </header>
